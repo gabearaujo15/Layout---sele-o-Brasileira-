@@ -14,7 +14,7 @@ body {
     padding: 5px 0;
 }
 .cabecalho-alura{
-    width: 10%;
+    width: 10%;s
 }
 .cabecalho-imagem{
      width: 25%;
@@ -34,7 +34,7 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#353030,#df41a2);
+    background-image: linear-gradient(#1810aa,#c5e72d);
     color:white;
     display: flex;
     justify-content: center;
